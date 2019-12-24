@@ -16,13 +16,6 @@ The `image-classification-SSD` and `GAN-deep-convolutional` examples in this roo
 
 <br>
 
-#### The following are other related courses that may be good resources:
-  - [Deep RL course](http://rail.eecs.berkeley.edu/deeprlcourse/)
-  - [Stanford Deep learning for NLP course](http://web.stanford.edu/class/cs224n/)
-  - [Neural networks for machine learning lectures](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
-  
-<br>
-
 #### The following are links to my repositories that would help in the understanding of this material:
 
 - [Machine Learning](https://github.com/vicb1/machine-learning) - including:
@@ -40,6 +33,13 @@ The `image-classification-SSD` and `GAN-deep-convolutional` examples in this roo
   - Python cheat-sheets
 - [Ubuntu 18.04 setup notes](https://github.com/vicb1/miscellaneous-notes/tree/master/ubuntu-18.04-notes) - helpful tips for setting up the Ubuntu environment, especially with configuring a CUDA environment
 
+<br>
+
+#### The following are other related courses that may be good resources:
+  - [Deep RL course](http://rail.eecs.berkeley.edu/deeprlcourse/)
+  - [Stanford Deep learning for NLP course](http://web.stanford.edu/class/cs224n/)
+  - [Neural networks for machine learning lectures](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
+  
 <br>
 
 #### The following is a list of additional helpful links on the topic:
