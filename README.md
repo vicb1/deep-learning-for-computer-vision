@@ -34,13 +34,11 @@ The `image-classification-SSD` and `GAN-deep-convolutional` examples in this roo
     - Computer Vision coursework: [Course description](https://www.omscs.gatech.edu/cs-7641-machine-learning) and [Lectures](https://classroom.udacity.com/courses/ud810)
   - Working examples of computer vision techniques
   - Additional notes
+- [Python reference](https://github.com/vicb1/python-reference) - including:
+  - Code examples for: numpy, pandas, multi-dimensional visualization (often helpful for creating interpretability plots), error handling, Spark (common querying method for parallel datastores), and algorithms
+  - Python setup commands
+  - Python cheatsheets
 - [Ubuntu 18.04 setup notes](https://github.com/vicb1/miscellaneous-notes/tree/master/ubuntu-18.04-notes) - helpful tips for setting up the Ubuntu environment, especially with configuring a CUDA environment
-
-This material requires a descent understanding the following topics.  I also
-of both Computer Vision and Machine Learning.  The following are repositories I've compiled from the following classes on these subjects, which can be helpful.  They are private repositories due to course policies at GA Tech, but please let me know if you would like a copy.
-
-  - 
-
 
 <br>
 
