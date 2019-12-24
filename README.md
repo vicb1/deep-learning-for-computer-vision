@@ -16,14 +16,14 @@ These examples were organized from the following courses:
 
 <br>
 
-The following are other courses that may be good resources:
+The following are other related courses that may be good resources:
   - [Deep RL course](http://rail.eecs.berkeley.edu/deeprlcourse/)
   - [Stanford Deep learning for NLP course](http://web.stanford.edu/class/cs224n/)
   - [Neural networks for machine learning lectures](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
   
 <br>
 
-The following is a list of additional helpful Links:
+The following is a list of additional helpful links on the topic:
 - [max pooling](https://computersciencewiki.org/index.php/Max-pooling_/_Pooling)
 - [CNN/RNN summary](https://github.com/ShuaiW/data-science-question-answer#cnn)
 - [A list of cost functions used in neural networks, alongside applications](https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications)
