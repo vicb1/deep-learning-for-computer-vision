@@ -16,7 +16,7 @@ The `image-classification-SSD` and `GAN-deep-convolutional` examples in this roo
 
 <br>
 
-The following are other related courses that may be good resources:
+##### The following are other related courses that may be good resources:
   - [Deep RL course](http://rail.eecs.berkeley.edu/deeprlcourse/)
   - [Stanford Deep learning for NLP course](http://web.stanford.edu/class/cs224n/)
   - [Neural networks for machine learning lectures](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
