@@ -27,7 +27,7 @@ The `image-classification-SSD` and `GAN-deep-convolutional` examples in this roo
     - Computer Vision coursework: [Course description](https://www.omscs.gatech.edu/cs-7641-machine-learning) and [Lectures](https://classroom.udacity.com/courses/ud810)
   - Other working examples of computer vision techniques
   - Additional notes/references
-- [AI with Computer Vision]  (note this is a private repo due to coursework sharing policies, please contact me over [Linkedin](https://www.linkedin.com/in/vbajenaru/) if you'd like access) - including:
+- [AI with Computer Vision](https://github.com/vicb1/AI-with-computer-vision)  (note this is a private repo due to coursework sharing policies, please contact me over [Linkedin](https://www.linkedin.com/in/vbajenaru/) if you'd like access) - including:
   - Knowledge-Based AI coursework: [Course description](https://www.omscs.gatech.edu/cs-7637-knowledge-based-artificial-intelligence-cognitive-systems) and [Course lectures](https://classroom.udacity.com/courses/ud409)
   - Additional notes/references
 
