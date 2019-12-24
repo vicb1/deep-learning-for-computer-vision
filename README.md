@@ -12,7 +12,7 @@ The `image-classification-SSD` and `GAN-deep-convolutional` examples in this roo
   - [Kaggle Deep Learning Course](https://www.kaggle.com/learn/deep-learning)
   - [Udemy course: computer-vision-a-z](https://www.udemy.com/course/computer-vision-a-z/)
   - [Udemy course: advanced-computer-vision](https://www.udemy.com/course/advanced-computer-vision/)
-  - [Stanford Deep learning for CV course](http://cs231n.stanford.edu/)
+  - [Stanford Deep Learning for Computer Vision course](http://cs231n.stanford.edu/)
 
 <br>
 
