@@ -7,7 +7,7 @@ This uses the [CIFAR-10 dataset](http://www.cs.toronto.edu/~kriz/cifar.html) for
 
 For example we take image examples such as these:
 
-![image](https://github.com/vicb1/deep-learning-for-computer-vision/blob/master/3_Deep_Convolutional_GAN/results/real_samples.png?raw=true)
+![image](https://github.com/vicb1/deep-learning-for-computer-vision/blob/master/3-GAN-deep-convolutional/results/real_samples.png?raw=true)
 
 
 And through the DCGAN algorithm, we can iteratively generate fake images such as the ones below:
