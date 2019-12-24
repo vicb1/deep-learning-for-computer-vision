@@ -6,7 +6,7 @@ This uses [this pytorch SSD implementation](https://github.com/amdegroot/ssd.pyt
 
 See the following image from the original paper exhibiting the wide variety of objects able to be detected, as well as being able to detect multiple possibly closely overlapping objects at once:
 
-![image](https://github.com/vicb1/deep-learning-for-computer-vision/blob/master/2_SSD_object_detection/ssd_examples.png?raw=true)
+![image](https://github.com/vicb1/deep-learning-for-computer-vision/blob/master/2-image-classification-SSD/ssd_examples.png?raw=true)
 
 #### To get these examples running on Ubuntu 18.04:
 1. Download this repository, then run the following commands in the command prompt to create this environment:
