@@ -24,6 +24,12 @@ The `image-classification-SSD` and `GAN-deep-convolutional` examples in this roo
 <br>
 
 #### The following is a list of additional helpful links on the topic:
+- [paperswithcode](https://paperswithcode.com/)
+- [deepmind](https://deepmind.com/research)
+- [WaveNet](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)
+- [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [The fall of RNN / LSTM](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0)
+- [Understanding SSD MultiBox — Real-Time Object Detection In Deep Learning](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab)
 - [Theanos examples](http://deeplearning.net/tutorial/)
 - [max pooling](https://computersciencewiki.org/index.php/Max-pooling_/_Pooling)
 - [CNN/RNN summary](https://github.com/ShuaiW/data-science-question-answer#cnn)
