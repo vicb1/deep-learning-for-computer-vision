@@ -2,7 +2,7 @@
 
 #### This repository contains Deep Learning for Computer Vision references and examples in Python.  
 
-The `notebook-examples` directory contains Jupyter Notebook examples from various courses.  Installation should be straightforward with the provide pip and conda requirements.
+The `notebook-examples` directory contains Jupyter Notebook examples from various courses.  Installation should be straightforward with the provided pip and conda requirements.
 
 The `image-classification-SSD` and `GAN-deep-convolutional` examples in this root directory provide detailed instructions on how to replicate the results, for both Ubuntu and Windows.  
 
