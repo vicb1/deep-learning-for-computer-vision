@@ -5,12 +5,12 @@ This repository contains Deep Learning for Computer Vision references and exampl
   - [Udemy course: computer-vision-a-z](https://www.udemy.com/course/computer-vision-a-z/)
   - [Udemy course: advanced-computer-vision](https://www.udemy.com/course/advanced-computer-vision/)
   - [Stanford Deep learning for CV course](http://cs231n.stanford.edu/)
-  <br>
+<br>
 The following are extra courses that may be good resources:
   - [Deep RL course](http://rail.eecs.berkeley.edu/deeprlcourse/)
   - [Stanford Deep learning for NLP course](http://web.stanford.edu/class/cs224n/)
   - [Neural networks for machine learning lectures](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
-  <br>
+<br>
 The following are other helpful Links:
 - [max pooling](https://computersciencewiki.org/index.php/Max-pooling_/_Pooling)
 - [CNN/RNN summary](https://github.com/ShuaiW/data-science-question-answer#cnn)
