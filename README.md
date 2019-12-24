@@ -1,7 +1,7 @@
 # deep-learning-for-computer-vision
 
 ### This repository contains Deep Learning for Computer Vision examples from the following courses:
-  - [Kaggle](https://www.kaggle.com/learn/deep-learning)
+  - [Kaggle Deep Learning Course](https://www.kaggle.com/learn/deep-learning)
   - [Udemy course: computer-vision-a-z](https://www.udemy.com/course/computer-vision-a-z/)
   - [Udemy course: advanced-computer-vision](https://www.udemy.com/course/advanced-computer-vision/)
   - [Stanford Deep learning for CV course](http://cs231n.stanford.edu/)
