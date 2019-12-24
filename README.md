@@ -1,8 +1,10 @@
 # deep-learning-for-computer-vision
 
-- This repository contains Deep Learning for Computer Vision references and Python examples.  
-- The `notebook-examples` directory contains Jupyter Notebook examples from various courses.
-- The `image-classification-SSD` and `GAN-deep-convolutional` examples in this root directory provide detailed instructions on how to replicate the results, for both Ubuntu and Windows.  
+This repository contains Deep Learning for Computer Vision references and Python examples.  
+
+The `notebook-examples` directory contains Jupyter Notebook examples from various courses.
+
+The `image-classification-SSD` and `GAN-deep-convolutional` examples in this root directory provide detailed instructions on how to replicate the results, for both Ubuntu and Windows.  
 
 <br>
 
