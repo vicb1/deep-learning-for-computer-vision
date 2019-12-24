@@ -1,6 +1,6 @@
 # deep-learning-for-computer-vision
 
-This repository contains Deep Learning for Computer Vision references and examples in Python.  
+##### This repository contains Deep Learning for Computer Vision references and examples in Python.  
 
 The `notebook-examples` directory contains Jupyter Notebook examples from various courses.  Installation should be straightforward with the provide pip and conda requirements.
 
@@ -8,7 +8,7 @@ The `image-classification-SSD` and `GAN-deep-convolutional` examples in this roo
 
 <br>
 
-These examples were organized from the following courses:
+##### These examples were organized from the following courses:
   - [Kaggle Deep Learning Course](https://www.kaggle.com/learn/deep-learning)
   - [Udemy course: computer-vision-a-z](https://www.udemy.com/course/computer-vision-a-z/)
   - [Udemy course: advanced-computer-vision](https://www.udemy.com/course/advanced-computer-vision/)
@@ -23,7 +23,7 @@ The following are other related courses that may be good resources:
   
 <br>
 
-The following is a list of additional helpful links on the topic:
+##### The following is a list of additional helpful links on the topic:
 - [Theanos examples](http://deeplearning.net/tutorial/)
 - [max pooling](https://computersciencewiki.org/index.php/Max-pooling_/_Pooling)
 - [CNN/RNN summary](https://github.com/ShuaiW/data-science-question-answer#cnn)
