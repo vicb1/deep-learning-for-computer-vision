@@ -24,6 +24,7 @@ The following are other related courses that may be good resources:
 <br>
 
 The following is a list of additional helpful links on the topic:
+- [Theanos examples](http://deeplearning.net/tutorial/)
 - [max pooling](https://computersciencewiki.org/index.php/Max-pooling_/_Pooling)
 - [CNN/RNN summary](https://github.com/ShuaiW/data-science-question-answer#cnn)
 - [A list of cost functions used in neural networks, alongside applications](https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications)
