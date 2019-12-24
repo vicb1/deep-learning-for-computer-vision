@@ -1,10 +1,3 @@
----
-layout: page
-mathjax: true
-permalink: /assignments2018/assignment2/
----
-
-
 
 ### Assignment 2:
 - [Q1](https://github.com/jariasf/CS231n/blob/master/assignment2/FullyConnectedNets.ipynb): Fully-connected Neural Network. (_Done_)
