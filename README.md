@@ -27,6 +27,7 @@ The `image-classification-SSD` and `GAN-deep-convolutional` examples in this roo
 - [paperswithcode](https://paperswithcode.com/)
 - [deepmind](https://deepmind.com/research)
 - [WaveNet](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)
+- [When to Use MLP, CNN, and RNN Neural Networks](https://machinelearningmastery.com/when-to-use-mlp-cnn-and-rnn-neural-networks/)
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [The fall of RNN / LSTM](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0)
 - [Understanding SSD MultiBox — Real-Time Object Detection In Deep Learning](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab)
