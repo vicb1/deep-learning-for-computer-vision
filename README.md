@@ -16,13 +16,13 @@ The `image-classification-SSD` and `GAN-deep-convolutional` examples in this roo
 
 <br>
 
-#### The following are links to my repositories that would help in the understanding of this material:
+#### The following are links to my other repositories that would help in the understanding of this material:
 
-- [Machine Learning](https://github.com/vicb1/machine-learning) - including:
+- [Machine Learning](https://github.com/vicb1/machine-learning) (note this is a private repo due to coursework sharing rules, please contact me over [Linkedin](https://www.linkedin.com/in/vbajenaru/) if you'd like access) - including:
   - Machine Learning coursework: [Course description](https://www.omscs.gatech.edu/cs-7641-machine-learning), and [Lectures](https://classroom.udacity.com/courses/ud262)
   - Machine learning for Stock Trading coursework: [Course description](https://www.omscs.gatech.edu/cs-7646-machine-learning-trading), [Lectures](https://classroom.udacity.com/courses/ud501), and [Assignments/reference information](http://quantsoftware.gatech.edu/CS7646_Spring_2019)
   - Additional notes/references
-- [Computer Vision](https://github.com/vicb1/computer-vision) - including:
+- [Computer Vision](https://github.com/vicb1/computer-vision) (note this is a private repo due to coursework sharing rules, please contact me over [Linkedin](https://www.linkedin.com/in/vbajenaru/) if you'd like access) - including:
     - Computational Photography coursework: [Course description](https://www.omscs.gatech.edu/cs-6475-computational-photography), [Lectures](https://classroom.udacity.com/courses/ud955)
     - Computer Vision coursework: [Course description](https://www.omscs.gatech.edu/cs-7641-machine-learning) and [Lectures](https://classroom.udacity.com/courses/ud810)
   - Other working examples of computer vision techniques
