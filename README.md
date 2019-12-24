@@ -23,6 +23,27 @@ The `image-classification-SSD` and `GAN-deep-convolutional` examples in this roo
   
 <br>
 
+#### The following are links to my repositories that would help in the understanding of this material:
+
+- [Machine Learning](https://github.com/vicb1/machine-learning) - including:
+  - Machine Learning coursework: [Course description](https://www.omscs.gatech.edu/cs-7641-machine-learning), and [Lectures](https://classroom.udacity.com/courses/ud262)
+  - Machine learning for Stock Trading coursework: [Course description](https://www.omscs.gatech.edu/cs-7646-machine-learning-trading), [Lectures](https://classroom.udacity.com/courses/ud501), and [Assignments/reference information](http://quantsoftware.gatech.edu/CS7646_Spring_2019)
+  - Additional Notes/References
+- [Computer Vision](https://github.com/vicb1/computer-vision) - including:
+    - Computational Photography coursework: [Course description](https://www.omscs.gatech.edu/cs-6475-computational-photography), [Lectures](https://classroom.udacity.com/courses/ud955)
+    - Computer Vision coursework: [Course description](https://www.omscs.gatech.edu/cs-7641-machine-learning) and [Lectures](https://classroom.udacity.com/courses/ud810)
+  - Working examples of computer vision techniques
+  - Additional notes
+- [Ubuntu 18.04 setup notes](https://github.com/vicb1/miscellaneous-notes/tree/master/ubuntu-18.04-notes) - helpful tips for setting up the Ubuntu environment, especially with configuring a CUDA environment
+
+This material requires a descent understanding the following topics.  I also
+of both Computer Vision and Machine Learning.  The following are repositories I've compiled from the following classes on these subjects, which can be helpful.  They are private repositories due to course policies at GA Tech, but please let me know if you would like a copy.
+
+  - 
+
+
+<br>
+
 #### The following is a list of additional helpful links on the topic:
 - [paperswithcode](https://paperswithcode.com/)
 - [deepmind](https://deepmind.com/research)
