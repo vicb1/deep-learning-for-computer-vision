@@ -9,7 +9,12 @@ The `image-classification-SSD` and `GAN-deep-convolutional` examples in this roo
 <br>
 
 #### These examples were organized from the following courses:
-  - [Coursera Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/)
+  - [Coursera Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/), with the following sections:
+    1. Neural Network and Deep Learning
+    1. Improving Deep Neural Networks-Hyperparameter tuning, Regularization and Optimization
+    1. Structuring Machine Learning Projects
+    1. Convolutional Neural Networks
+    1. Sequence Models
   - [Kaggle Deep Learning Course](https://www.kaggle.com/learn/deep-learning)
   - [Udemy course: computer-vision-a-z](https://www.udemy.com/course/computer-vision-a-z/)
   - [Udemy course: advanced-computer-vision](https://www.udemy.com/course/advanced-computer-vision/)
