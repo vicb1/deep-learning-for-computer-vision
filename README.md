@@ -1,6 +1,6 @@
-# deep-learning-for-computer-vision
+# deep-learning
 
-#### This repository contains Deep Learning for Computer Vision references and examples in Python.  
+#### This repository contains Deep Learning references and examples in Python.  
 
 The `notebook-examples` directory contains Jupyter Notebook examples from various courses.  Installation should be straightforward with the provided pip and conda requirements.
 
